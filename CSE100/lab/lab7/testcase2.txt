@@ -1,0 +1,11 @@
+i
+t
+y
+h
+j
+ENDINSERT
+t
+h
+p
+ENDDELETE
+
