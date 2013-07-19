@@ -1,7 +1,7 @@
 UCM CSE 100 Algorithms Design and Analysis
 ==========================================
 
-+ Contained within this folder are all the C++ code created for CSE 111 Algorithms Design and Analysis class.
++ Contained within this folder are all the C++ code created during the labs of the CSE 111 Algorithms Design and Analysis class.
 + The pdfs contain explanations of the labs.
 + The programs can be run through the terminal by compiling the programs through GNU C++ compiler for linux and running the created object files.
 + Some labs contain makefiles where all you have to do is run make in the terminal while located in that folder.
